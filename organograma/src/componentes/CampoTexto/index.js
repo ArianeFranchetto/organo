@@ -9,12 +9,6 @@ const aoDigitado = (evento) => {
     props.aoAlterado(evento.target.value)
 }
 
-
-
-    
-
-
-
 return (
         <div className="campo-texto">
             <label>
